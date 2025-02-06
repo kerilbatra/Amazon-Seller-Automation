@@ -9,9 +9,9 @@
 
 # Requirements
 
-Python 
-pandas
-sp-api
-office365
-pytz
+- Python
+- pandas
+- sp-api
+- office365
+- pytz
 
